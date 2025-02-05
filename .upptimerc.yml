@@ -6,7 +6,7 @@ sites:
   - name: Seks-Hotel
     url: https://seks-hotel.nl
   - name: Seks-Hotel  Client
-    url: nitro-hotel.nl
+    url: nitro.seks-hotel.nl
     port: 2096
     check: "ws"
 
