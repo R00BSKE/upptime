@@ -10,16 +10,16 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 964,
-    "timeDay": 964,
-    "timeWeek": 964,
-    "timeMonth": 964,
-    "timeYear": 964,
+    "time": 1041,
+    "timeDay": 1041,
+    "timeWeek": 1041,
+    "timeMonth": 1041,
+    "timeYear": 1041,
     "dailyMinutesDown": {}
   },
   {
     "name": "Seks-Hotel  Client",
-    "url": "nitro-hotel.nl",
+    "url": "nitro.seks-hotel.nl",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "seks-hotel-client",
     "status": "down",
@@ -34,7 +34,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-05": 0
+      "2025-02-05": 4
     }
   }
 ]
