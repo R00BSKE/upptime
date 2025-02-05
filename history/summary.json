@@ -10,31 +10,31 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1041,
-    "timeDay": 1041,
-    "timeWeek": 1041,
-    "timeMonth": 1041,
-    "timeYear": 1041,
+    "time": 1026,
+    "timeDay": 1026,
+    "timeWeek": 1026,
+    "timeMonth": 1026,
+    "timeYear": 1026,
     "dailyMinutesDown": {}
   },
   {
     "name": "Seks-Hotel  Client",
-    "url": "nitro.seks-hotel.nl",
-    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "url": "wss://nitro.seks-hotel.nl",
+    "icon": "https://icons.duckduckgo.com/ip3/nitro.seks-hotel.nl.ico",
     "slug": "seks-hotel-client",
     "status": "down",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
+    "uptime": "0.11%",
+    "uptimeDay": "0.11%",
+    "uptimeWeek": "0.11%",
+    "uptimeMonth": "0.11%",
+    "uptimeYear": "0.11%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-05": 4
+      "2025-02-05": 9
     }
   }
 ]
