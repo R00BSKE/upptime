@@ -1,7 +1,7 @@
 url: wss://nitro.seks-hotel.nl:2096
-status: down
-code: 0
+status: up
+code: 200
 responseTime: 0
-lastUpdated: 2025-02-13T19:46:34.368Z
+lastUpdated: 2025-02-13T19:53:02.660Z
 startTime: 2025-02-05T14:11:04.594Z
 generator: Upptime <https://github.com/upptime/upptime>
