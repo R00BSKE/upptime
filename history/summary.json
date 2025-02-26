@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/seks-hotel.nl.ico",
     "slug": "seks-hotel",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.35%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
-    "time": 2030,
-    "timeDay": 4343,
-    "timeWeek": 3253,
-    "timeMonth": 2030,
-    "timeYear": 2030,
-    "dailyMinutesDown": {
-      "2025-02-25": 9
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 2029,
+    "timeDay": 3738,
+    "timeWeek": 3157,
+    "timeMonth": 2029,
+    "timeYear": 2029,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Seks-Hotel  Client",
