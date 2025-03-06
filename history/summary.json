@@ -22,19 +22,19 @@
     "url": "wss://nitro.seks-hotel.nl:2096",
     "icon": "https://icons.duckduckgo.com/ip3/nitro.seks-hotel.nl.ico",
     "slug": "seks-hotel-client",
-    "status": "down",
-    "uptime": "99.95%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.95%",
+    "status": "up",
+    "uptime": "99.93%",
+    "uptimeDay": "99.42%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-06": 0,
+      "2025-03-06": 8,
       "2025-02-24": 20
     }
   }
