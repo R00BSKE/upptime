@@ -4,10 +4,10 @@
     "url": "https://seks-hotel.nl",
     "icon": "https://icons.duckduckgo.com/ip3/seks-hotel.nl.ico",
     "slug": "seks-hotel",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2140,
@@ -15,14 +15,16 @@
     "timeWeek": 2185,
     "timeMonth": 2603,
     "timeYear": 2140,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-15": 2
+    }
   },
   {
     "name": "Seks-Hotel  Client",
     "url": "wss://nitro.seks-hotel.nl:2096",
     "icon": "https://icons.duckduckgo.com/ip3/nitro.seks-hotel.nl.ico",
     "slug": "seks-hotel-client",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -34,6 +36,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
+      "2025-03-15": 0,
       "2025-02-24": 20
     }
   }
