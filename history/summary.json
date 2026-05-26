@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/seks-hotel.nl.ico",
     "slug": "seks-hotel",
     "status": "down",
-    "uptime": "25.10%",
+    "uptime": "25.05%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "4.44%",
+    "uptimeYear": "4.17%",
     "time": 708,
-    "timeDay": 258,
-    "timeWeek": 411,
-    "timeMonth": 256,
+    "timeDay": 906,
+    "timeWeek": 352,
+    "timeMonth": 285,
     "timeYear": 197,
     "dailyMinutesDown": {
       "2025-06-09": 32,
@@ -22,7 +22,8 @@
       "2025-06-12": 1440,
       "2025-06-11": 1440,
       "2025-06-10": 1092,
-      "2026-05-25": 39,
+      "2026-05-26": 38,
+      "2026-05-25": 1440,
       "2026-05-24": 1440,
       "2026-05-23": 1440,
       "2026-05-22": 1440,
@@ -375,7 +376,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/nitro.seks-hotel.nl.ico",
     "slug": "seks-hotel-client",
     "status": "down",
-    "uptime": "16.54%",
+    "uptime": "16.51%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -386,7 +387,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-25": 39,
+      "2026-05-26": 38,
+      "2026-05-25": 1440,
       "2026-05-24": 1440,
       "2026-05-23": 1440,
       "2026-05-22": 1440,
@@ -749,8 +751,7 @@
       "2025-05-30": 1440,
       "2025-05-29": 1440,
       "2025-05-28": 1440,
-      "2025-05-27": 1440,
-      "2025-05-26": 1440
+      "2025-05-27": 1440
     }
   }
 ]
